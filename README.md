@@ -31,7 +31,7 @@
 
 </a>
     <a href="(https://github.com/NathMedeiros/github-readme-stats">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathMedeiros&layout=compact&theme=dracula" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathMedeiros&layout=compact&theme=dracula" />
   </a>
 </div>
    
