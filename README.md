@@ -29,6 +29,9 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathMedeiros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
+    <a href="(https://github.com/eucamila22/github-readme-stats">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucamila22&layout=compact&theme=dracula" />
+  </a>
 </p>
    
  </div>
