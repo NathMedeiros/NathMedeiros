@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Estudando typeScript
+- 🌱 Estudando BackEnd
 - 😄 Pronouns: Ela/Dela
 
 
