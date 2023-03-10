@@ -24,14 +24,15 @@
   <a href = "mailto:nathalia.lalvc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-de-oliveira-medeiros-14a471116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <p align="center">
+  
+  <div align="center">
 <a href="https://github.com/NathMedeiros">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathMedeiros&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </a>
-    <a href="(https://github.com/eucamila22/github-readme-stats">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucamila22&layout=compact&theme=dracula" />
+    <a href="(https://github.com/NathMedeiros/github-readme-stats">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathMedeiros&layout=compact&theme=dracula" />
   </a>
-</p>
+</div>
    
  </div>
