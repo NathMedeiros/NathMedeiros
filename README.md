@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando BackEnd
+- 🌱 Estudando Python
 - 😄 Pronouns: Ela/Dela
 
 
