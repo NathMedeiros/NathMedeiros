@@ -1,8 +1,8 @@
-### Olá! Eu sou a Nathalia Medeiros, desenvolvedora Front-end👋
+### Olá! Eu sou a Nathalia Medeiros, desenvolvedora Full-stack👋
 
 
 
-- 🌱 Estudando Python
+
 - 😄 Pronouns: Ela/Dela
 
 
